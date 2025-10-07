@@ -3,3 +3,8 @@
     padding: 0;
     box-sizing: border-box;
 }
+:root {
+--yellow: #FFDE00;
+--green: #00853F;
+--red: #CE1126;
+}
